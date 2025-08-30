@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # ========== LOAD DATA ==========
-df = pd.read_csv("zomato_app/Zomato_Final_Dataset.csv")
+df = pd.read_csv("Zomato_Final_Dataset.csv")
 df.columns = df.columns.str.strip()
 
 if "Time_taken (min)" not in df.columns:
