@@ -8,7 +8,7 @@ This project examines 45,584 delivery records (cleaned to 41,359) with 20 variab
 - Business problem
 - Data understanding & preprocessing (duplicate check, missing-value handling, basic type conversion)
 - Data analysis & insights
-- Interactive [Dashboard](https://bit.ly/4fPY5K6) and [Streamlit app](https://bit.ly/4mqXJfr)
+- Interactive [Dashboard](http://bit.ly/47BOhkQ) and [Streamlit app](https://bit.ly/4mqXJfr)
 - Recommendations & actionable steps
 
 📎 For a more detailed explanation, please see the **PPT [here](./Zomato%20Delivery%20Performance%20Presentation.pdf)**
